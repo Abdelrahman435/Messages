@@ -10,4 +10,4 @@ content-Type: application/json
     "content": "hi there"
 }
 ### get a message
-GET http://localhost:3000/messages/552562
+GET http://localhost:3000/messages/996
